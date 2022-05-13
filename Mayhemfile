@@ -1,0 +1,5 @@
+project: jacob-clemente/chrome-pak-customizer
+target: pak
+
+cmds:
+  - cmd: /pak -u @@ out
