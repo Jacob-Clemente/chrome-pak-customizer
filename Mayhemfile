@@ -1,4 +1,4 @@
-project: jacob-clemente/chrome-pak-customizer
+project: chrome-pak-customizer
 target: pak
 
 cmds:
